@@ -27,8 +27,26 @@ The project includes:
 ---
 
 ## Repository Structure
-
-text . ├── data/ │   └── cell-count.csv ├── dashboard/ │   └── app.py ├── outputs/ │   ├── avg_b_cells_male_responders.csv │   ├── baseline_project_counts.csv │   ├── baseline_response_counts.csv │   ├── baseline_sex_counts.csv │   ├── responder_vs_nonresponder_boxplot.png │   ├── significant_populations.csv │   ├── summary_table.csv │   └── summary_table_with_metadata.csv ├── load_data.py ├── run_pipeline.py ├── requirements.txt ├── Makefile ├── clinical_trial.db └── README.md 
+.
+├── data/
+│   └── cell-count.csv
+├── dashboard/
+│   └── app.py
+├── outputs/
+│   ├── avg_b_cells_male_responders.csv
+│   ├── baseline_project_counts.csv
+│   ├── baseline_response_counts.csv
+│   ├── baseline_sex_counts.csv
+│   ├── responder_vs_nonresponder_boxplot.png
+│   ├── significant_populations.csv
+│   ├── summary_table.csv
+│   └── summary_table_with_metadata.csv
+├── load_data.py
+├── run_pipeline.py
+├── requirements.txt
+├── Makefile
+├── clinical_trial.db
+└── README.md
 
 ---
 
