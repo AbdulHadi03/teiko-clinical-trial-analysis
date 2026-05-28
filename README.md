@@ -27,6 +27,8 @@ The project includes:
 ---
 
 ## Repository Structure
+
+```text
 .
 ├── data/
 │   └── cell-count.csv
@@ -47,7 +49,7 @@ The project includes:
 ├── Makefile
 ├── clinical_trial.db
 └── README.md
-
+```
 ---
 
 ## Setup
